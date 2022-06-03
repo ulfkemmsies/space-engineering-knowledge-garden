@@ -1,0 +1,126 @@
+* Introduction
+:PROPERTIES:
+:heading: true
+:END:
+** If you are reading this, then you have embarked with me on a 2-3 year journey of self-discovery, +pain+ aspiration, and total nerdiness. We are the future *Space Engineers* (/or statistically, consultants and hedge fund quants/).
+** Completing this MSc. will test us unlike any previous academic challenge - specially the first year filled with a tasty 60 ECTS of pain. Our ability to multitask, track progress over several concurrent projects, and retain ridiculous amounts of information will have to be maxxed out.
+** Then, we will be thrust into the unknown and (gasp!) tasked with thinking for ourselves, to find some undiscovered nook or cranny in engineering that has not yet been explored. The ultimate test for a real professional.
+** However, it is always helpful to have *friends* along on a quest for knowledge.
+*** /Separate, we are but a bunch of sticks, but together, we are a mighty/ [[https://en.wikipedia.org/wiki/Faggot_(unit)][faggot]].
+** *How can we help one another* through this challenge and make the process easier for all? How can we combine forces and form a space-Megazord, more powerful than even the Board of Examiners?
+*** >*By pooling our resources and effort.*
+** That is what this project is meant for: a *collaborative learning environment* where we distribute the work. This time, there will be no Sam to split the Red Sea and lead us to graduation. /We must be our own saviors!/
+* The work ahead
+:PROPERTIES:
+:heading: true
+:END:
+** There are some essential functions that will be required of us. Each has a degree of collaboration potential - let's estimate this from 0 to 10:
+*** Capturing and processing course content  [:span {:is "slider-sjzewimdkr"}]{{renderer :slider_sjzewimdkr}}
+:PROPERTIES:
+:value: 8
+:heading: true
+:END:
+*** Annotating, clarifying, and refining this information [:span {:is "slider-wyhjk"}]{{renderer :slider_wyhjk}}
+:PROPERTIES:
+:value: 7
+:heading: true
+:END:
+*** Remembering what we learned (both in the short- and hopefully long-term) [:span {:is "slider-edguldd"}]{{renderer :slider_edguldd}}
+:PROPERTIES:
+:value: 8
+:heading: true
+:END:
+*** Collecting resources, references, and literature for our eventual research [:span {:is "slider-nczpfnn"}]{{renderer :slider_nczpfnn}}
+:PROPERTIES:
+:value: 9
+:heading: true
+:END:
+*** Completing assignments and projects [:span {:is "slider-zddiuhgiu"}]{{renderer :slider_zddiuhgiu}}
+:PROPERTIES:
+:heading: true
+:value: 3
+:END:
+** The only one that cannot be integrated into this collaborative effort are the assignments given by the TU, since they imply their own self-contained group efforts. All the other ones have potential to be *optimized through a good system and good tools*.
+* The System
+:PROPERTIES:
+:heading: true
+:END:
+** [[../assets/system_diagram_1654193520001_0.jpg]]
+**
+**
+* The Tools
+:PROPERTIES:
+:heading: true
+:END:
+** Admittedly, there will be a slight learning curve for all the tools used in our System effectively. I promise the payoff is worth it.
+** Below are some quick introductions to our weapons of choice and references for learning more about them. The page for each tool has much more detail if you need a reference.
+** Logseq
+:PROPERTIES:
+:heading: true
+:END:
+*** [[file:./logseq.org][Logseq]] is what you're reading this page in - it is the sexiest Personal Knowledge Management software out there right now: open-source and powerful. Its structure is simple: there are pages, and blocks, and anything can be referenced anywhere else.
+**** Here is the [[https://logseq.com/][download page for the desktop app]], the [[https://docs.logseq.com/#/page/Contents][documentation]], and a [[https://www.youtube.com/watch?v=cy5A-_S1bnU][crash course]].
+** Anki
+:PROPERTIES:
+:heading: true
+:END:
+*** [[Anki]] is the most widely used [[https://e-student.org/spaced-repetition/][spaced repetition]] software today. It is also open-source, has tons of plugins, and even a mobile app so you can practice your knowledge on the toilet, too.
+** Zotero
+:PROPERTIES:
+:heading: true
+:END:
+*** [[Zotero]] is an open-source bibliography management software that helps to keep all the articles we pirate through [[https://www.sci-hub.st/][Sci-Hub]] organized, referenceable, and findable. It also integrates nicely with Logseq.
+** Git
+:PROPERTIES:
+:heading: true
+:END:
+***
+* Setup and Installation
+:PROPERTIES:
+:heading: true
+:END:
+** [[../assets/tool_connections_1654193614512_0.jpg]]
+** Setup steps
+:PROPERTIES:
+:heading: true
+:END:
+*** Install Logseq
+*** Install Google Drive Desktop app
+**** Sync shared folder locally
+*** Install Zotero
+**** Connect to shared account
+**** Connect to Logseq plugin
+*** Install Anki
+**** Install Crowdanki
+**** Install Logseq Anki plugin
+*** Install Git manager
+**** Clone repo
+**** Connect file destinations properly
+* Formatting practices
+:PROPERTIES:
+:heading: true
+:END:
+** How to add sources
+*** Through Zotero
+*** Without Zotero
+*** Page properties
+** What an ideal note looks like
+** Best practices
+*** Syntax (org)
+** Course-based organization vs. other topics
+* How to take notes
+:PROPERTIES:
+:heading: true
+:END:
+** Different levels of detail
+** Short-term vs. long-term notes (cramming vs. wiki)
+** Progressive refining
+*** Atomic ideas
+* Making flashcards
+:PROPERTIES:
+:heading: true
+:END:
+** Syntax for plugin
+** How to place flashcards in notes
+** Best knowledge formulation practices
+*** Supermemo rules

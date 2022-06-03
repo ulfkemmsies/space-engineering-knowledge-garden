@@ -1,0 +1,7 @@
+#+TYPE: course
+
+* Stuff
+:PROPERTIES:
+:Genres: Classic
+:END:
+*

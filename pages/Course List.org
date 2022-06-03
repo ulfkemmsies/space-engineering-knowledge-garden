@@ -1,0 +1,20 @@
+* Core (Mandatory) Courses
+:PROPERTIES:
+:heading: true
+:END:
+** [[file:./fundamentals of astrodynamics.org][Fundamentals of Astrodynamics]]
+** [[Optical Space Sensors]]
+** [[Planetary Sciences I]]
+** [[Thermal Rocket Propulsion]]
+** [[Thermal Rocket Propulsion Exercise]]
+** [[Micropropulsion]]
+** [[Microsat Engineering]]
+** [[Space Systems Engineering]]
+** [[Space Embedded Systems]]
+** [[Ethics and Engineering]]
+* Electives
+:PROPERTIES:
+:heading: true
+:END:
+** [[Monte Carlo Methods]]
+**

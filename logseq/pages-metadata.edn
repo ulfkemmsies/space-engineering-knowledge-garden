@@ -1,0 +1,96 @@
+[{:block/name "+type",
+  :block/created-at 1654180938251,
+  :block/updated-at 1654180938251}
+ {:block/name "a",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "b",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "c",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "card",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "contents",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "course list",
+  :block/created-at 1654180203286,
+  :block/updated-at 1654180827853}
+ {:block/name "doing",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "done",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "draws/2022-06-02-12-35-24.excalidraw",
+  :block/created-at 1654188268312,
+  :block/updated-at 1654188268312}
+ {:block/name "draws/2022-06-02-13-31-43.excalidraw",
+  :block/created-at 1654188268312,
+  :block/updated-at 1654188268312}
+ {:block/name "ethics and engineering",
+  :block/created-at 1654180732931,
+  :block/updated-at 1654180732931}
+ {:block/name "favorites",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "fundamentals of astrodynamics",
+  :block/created-at 1654180545434,
+  :block/updated-at 1654180938869}
+ {:block/name "in-progress",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "jun 2nd, 2022",
+  :block/created-at 1654177187304,
+  :block/updated-at 1654184251968}
+ {:block/name "later",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "micropropulsion",
+  :block/created-at 1654180695132,
+  :block/updated-at 1654180695132}
+ {:block/name "microsat engineering",
+  :block/created-at 1654180708270,
+  :block/updated-at 1654180708270}
+ {:block/name "monte carlo methods",
+  :block/created-at 1654180827853,
+  :block/updated-at 1654180827853}
+ {:block/name "now",
+  :block/created-at 1654122392537,
+  :block/updated-at 1654122392537}
+ {:block/name "optical space sensors",
+  :block/created-at 1654180587436,
+  :block/updated-at 1654180587436}
+ {:block/name "planetary sciences i",
+  :block/created-at 1654180661055,
+  :block/updated-at 1654180661055}
+ {:block/name "space embedded systems",
+  :block/created-at 1654180723725,
+  :block/updated-at 1654180723725}
+ {:block/name "space systems engineering",
+  :block/created-at 1654180715773,
+  :block/updated-at 1654180715773}
+ {:block/name "start here",
+  :block/created-at 1654181498483,
+  :block/updated-at 1654188124902}
+ {:block/name "templates",
+  :block/created-at 1654179730159,
+  :block/updated-at 1654180882654}
+ {:block/name "thermal rocket propulsion",
+  :block/created-at 1654180671911,
+  :block/updated-at 1654180671911}
+ {:block/name "thermal rocket propulsion exercise",
+  :block/created-at 1654180687545,
+  :block/updated-at 1654180687545}
+ {:block/name "todo",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "wait",
+  :block/created-at 1654122392536,
+  :block/updated-at 1654122392536}
+ {:block/name "waiting",
+  :block/created-at 1654122392536, 
+  :block/updated-at 1654122392536}]
